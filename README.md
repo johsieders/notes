@@ -1,2 +1,2 @@
 # notes
-notes on math, physics, computer science
+Notes on math, physics, computer science
